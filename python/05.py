@@ -1,1 +1,1 @@
-a = int(input("enter a number: "))
+print("hello world")
